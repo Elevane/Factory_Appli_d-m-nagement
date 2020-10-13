@@ -1,0 +1,51 @@
+--appli mobile de suivir de déménagement.
+--site "RH" de suivi des intervention.
+
+
+equipe :
+    Bastien : DEV B3
+    Tom : B2 E-sport
+    Gregory: B3 OPS
+    Gwenael : B1 3D
+    Jermey : B1 SWITCH
+    Mathieu : master 2d bech projet
+    Romain : B2 ops
+    Florent : b2 DEV
+
+
+############ Le Projet / Produit #################
+Quel est ce produit ?
+    Application mobile et web de suivi de déménagement
+Quels services proposez-vous ?
+    -suivi d'déménagement/client
+    -gestion des déménageurs , camions 'rh'
+En quoi vous représente-t-il ?
+    -N/A
+Quel est sa valeur ajoutée ?
+    -aide
+    -informations
+    -connecté
+
+
+################## Le contenu #######################
+fonctionnalités
+    -map/localisation
+    -recherche de demenagement
+    -options
+    -suivi sur map
+    -pathdrawing
+    -site vitrine/présentation simple + lien vers l'appli
+    -forme adapté en 3d sur la map
+    -changement des type de map
+    -systeme premium
+    -service de dialogue client/deme
+    
+actions à mener
+
+documents
+
+
+
+
+
+
